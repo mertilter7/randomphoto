@@ -1,0 +1,30 @@
+header{
+    color: blueviolet;
+    margin-top: 3em;
+    padding: 1em;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+nav a:link{
+    display: inline-block;
+    margin-right: 10px;
+    text-decoration: none;    
+}
+nav a:visited{
+    text-decoration:underline;
+}
+nav a:hover{
+    text-decoration:underline;
+    color:tomato;
+}
+section {
+    text-align: center;
+}
+section ul li {
+    list-style-position: inside;
+}
+section ol li {
+    list-style-position: inside;
+}
